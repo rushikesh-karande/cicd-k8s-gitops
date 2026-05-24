@@ -99,47 +99,47 @@ On every push to `main`:
 ## 📸 Screenshots
 
 ### 1. EC2 Instance
-./screenshots/01-ec2.png
+![EC2](screenshots/01-ec2.png)
 
 ---
 
 ### 2. Kubernetes Nodes
-./screenshots/02-nodes.png
+![Nodes](screenshots/02-nodes.png)
 
 ---
 
 ### 3. Running Pods
-./screenshots/03-pods.png
+![Pods](screenshots/03-pods.png)
 
 ---
 
 ### 4. Docker Build
-./screenshots/04-docker-build.png
+![Docker Build](screenshots/04-docker-build.png)
 
 ---
 
 ### 5. Docker Push
-./screenshots/05-docker-push.png
+![Docker Push](screenshots/05-docker-push.png)
 
 ---
 
 ### 6. Docker Hub Repo
-./screenshots/06-docker-hub.png
+![Docker Hub](screenshots/06-docker-hub.png)
 
 ---
 
 ### 7. GitHub Actions Pipeline
-./screenshots/07-github-actions.png
+![Pipeline](screenshots/07-github-actions.png)
 
 ---
 
 ### 8. Application Running
-./screenshots/08-app-running.png
+![App](screenshots/08-app-running.png)
 
 ---
 
 ### 9. ArgoCD Dashboard
-./screenshots/09-argocd-dashboard.png
+![ArgoCD](screenshots/09-argocd-dashboard.png)
 
 ---
 
